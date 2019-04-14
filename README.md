@@ -1,5 +1,5 @@
 # SKK-gallery website
-This repository is belongs to a gallery website in which there are different categories of wallpapers
+This repository belongs to a gallery website in which there are different categories of wallpapers
 in high definition quality and you can easily download it with one click. This website is designed in HTML and CSS
 at beginer level.<br><br>
 
