@@ -85,7 +85,7 @@ ul.cat-menu {
 .gallary{
 	width: 350px;
 	height: 230px;
-	border: dotted 2px black;
+	border: solid 2px black;
 	position: relative;
 	left: 240px;
 }
